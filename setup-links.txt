@@ -1,0 +1,20 @@
+System: Windows 11
+
+
+Setup folloing this website: https://soliditydeveloper.com/windows-solidity
+-- installed Github for desktop
+-- installed GitBash 
+-- installed Python  from Windows Store
+
+-- could not Install Microsoft Visual Studio 2015 Community 
+	-- Continuing without it to see if that works 
+
+
+https://github.com/dishesh/100-days-of-code
+https://docs.soliditylang.org/en/v0.8.12/
+
+https://www.nateliason.com/blog/learn-solidity
+
+__created branch Dev 
+## Stay Tuned
+## midnight__Coder_
